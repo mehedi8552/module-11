@@ -1,0 +1,20 @@
+*{
+  background-color: rgb(181, 43, 205);
+}
+
+
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+
+}
+p{
+  color: rgb(41, 248, 248);
+}
+h2{
+  color: rgb(234, 255, 0);
+}
